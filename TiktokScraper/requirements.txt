@@ -1,0 +1,8 @@
+TikTokApi
+playwright
+python-dotenv
+pandas
+supabase
+beautifulsoup4
+twscrape
+python-dotenv

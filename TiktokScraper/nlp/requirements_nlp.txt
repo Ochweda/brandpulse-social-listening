@@ -1,0 +1,24 @@
+# BrandPulse NLP Dependencies
+# Install with: pip install -r nlp/requirements_nlp.txt
+
+# Language detection
+langdetect>=1.0.9
+
+# HuggingFace (Swahili/Sheng sentiment via AfriSenti model)
+# Uses AutoModelForSequenceClassification + AutoTokenizer (official pattern)
+transformers>=4.35.0
+torch>=2.0.0
+
+# Required by AfriSenti for softmax scoring across all 3 classes
+scipy>=1.10.0
+numpy>=1.24.0
+
+# Google Cloud NLP (English sentiment)
+# Requires: export GOOGLE_APPLICATION_CREDENTIALS="/path/to/key.json"
+google-cloud-language>=2.11.0
+
+# Supabase (optional — for database push)
+supabase>=2.0.0
+
+# Utilities
+tqdm>=4.65.0
