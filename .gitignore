@@ -1,0 +1,47 @@
+# ── Python ─────────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# ── Virtual environments (each scraper has its own) ─────────────────────────
+venv/
+.venv/
+XCruFiles/
+# InstagramScraper's venv is flat (no venv/ subfolder) — its own dirs:
+InstagramScraper/Include/
+InstagramScraper/Lib/
+InstagramScraper/Scripts/
+InstagramScraper/share/
+InstagramScraper/pyvenv.cfg
+
+# ── Downloaded browser binaries ──────────────────────────────────────────────
+chrome/
+
+# ── Secrets ───────────────────────────────────────────────────────────────
+.env
+.env.*
+!.env.example
+cookies.json
+*.pem
+*.key
+*.p12
+credentials.json
+service-account*.json
+
+# ── Scraper output / debug artifacts ─────────────────────────────────────────
+brandpulse_output/
+debug_*.png
+debug_*.html
+debug_comments/
+debug_graphql/
+*_debug.json
+results_debug.json
+
+# ── Local tool config / scraped third-party contact data ────────────────────
+.claude/settings.local.json
+InstagramScraper/agency_execs_list.csv
+
+# ── OS cruft ──────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db

@@ -1,0 +1,7 @@
+{
+  "python.analysis.extraPaths": [
+    "./XScraper",
+    "./XScraper/ScraperCode"
+  ],
+  "python-envs.defaultEnvManager": "ms-python.python:system"
+}
