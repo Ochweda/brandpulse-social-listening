@@ -1,0 +1,4 @@
+twikit
+python-dotenv
+pandas
+supabase
