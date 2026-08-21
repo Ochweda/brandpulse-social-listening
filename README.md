@@ -13,7 +13,7 @@
 </p>
 <p align="center"><em>The five scrapers orchestrated as sub-workflows in n8n.</em></p>
 
-Before this became Python, BrandPulse's MVP was built in n8n for one customer — the goal was to validate the idea and, more importantly, find out which fields the client actually needed out of a "brand mentions" feed that a low-code workflow tool couldn't reliably produce. Those gaps are what drove the move to hand-written Python scrapers: n8n proved the idea worked, but its off-the-shelf scraping nodes couldn't hit the field-level detail (geolocation fusion, trilingual sentiment, platform-specific schema fields) the client's use case needed.
+Before this became Python, BrandPulse's MVP was built in n8n for one customer (i.e. ISUZU) — the goal was to validate the idea and, more importantly, find out which fields the client actually needed out of a "brand mentions" feed that a low-code workflow tool couldn't reliably produce. Those gaps are what drove the move to hand-written Python scrapers: n8n proved the idea worked, but its off-the-shelf scraping nodes couldn't hit the field-level detail (geolocation fusion, trilingual sentiment, platform-specific schema fields) the client's use case needed.
 
 ## The problem
 
