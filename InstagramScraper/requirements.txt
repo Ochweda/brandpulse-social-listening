@@ -1,0 +1,23 @@
+# Instagram Scraper - Python Dependencies
+# Based on "Web Scraping with Python" by Ryan Mitchell
+
+# Core scraping libraries (Chapter 1)
+selenium==4.15.2
+beautifulsoup4==4.12.2
+requests==2.31.0
+
+# HTML parsing (Chapter 2)
+lxml==4.9.3
+
+# Data handling (Chapter 6, 8)
+pandas==2.1.3
+
+# WebDriver management
+webdriver-manager==4.0.1
+
+# User agent generation
+fake-useragent==1.5.1
+
+# Optional: For advanced features
+# pillow==10.1.0  # Chapter 13: Image processing
+# pytesseract==0.3.10  # Chapter 13: OCR

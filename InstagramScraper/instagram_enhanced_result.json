@@ -1,0 +1,147 @@
+{
+  "post_url": "https://www.instagram.com/p/DRqpgFQkrtX/",
+  "post_type": "photo",
+  "post_date": "2025-11-30T03:59:08.000Z",
+  "username": "majoretteaustralasia",
+  "author_name": "majoretteaustralasia",
+  "author_profile_url": "https://www.instagram.com/majoretteaustralasia/",
+  "follower_count": 42000,
+  "following_count": 1529,
+  "posts_count": 4326,
+  "likes": 130,
+  "comments": 4,
+  "shares": 0,
+  "views": null,
+  "engagement_rate": 0.32,
+  "caption": "majoretteaustralasia\n 10 w\nGet your JDM on with the JDM Transporters range. \nThese awesome 1:64 Isuzu NPR trucks all come with sliding and tilting tray, plus tuning parts and a classic JDM car on the tray (in this case a Nissan Silvia Aero).",
+  "hashtags": [
+    "#jdm",
+    "#jdmdiecast",
+    "#jdmlegends",
+    "#jdmlife",
+    "#jdmlifestyle",
+    "#jdmnation",
+    "#jdmdaily",
+    "#isuzutruck",
+    "#isuzutrucks",
+    "#isuzu",
+    "#isuzunpr",
+    "#npr",
+    "#nissansilvia",
+    "#s15",
+    "#s15silvia",
+    "#s15specr",
+    "#%E3%83%9E%E3%82%B8%E3%83%A7%E3%83%AC%E3%83%83%E3%83%88",
+    "#%E3%82%AB%E3%83%90%E3%83%A4",
+    "#%E3%83%9E%E3%82%B8%E3%83%A7%E3%83%AC%E3%83%83%E3%83%88%E3%83%9F%E3%83%8B%E3%82%AB%E3%83%BC"
+  ],
+  "mentions": [],
+  "location": "Japan",
+  "location_source": "geo_enrichment",
+  "location_confidence": 0.8979166666666667,
+  "geo_enrichment": {
+    "best_location": "Japan",
+    "best_confidence": 0.9,
+    "method_used": "post_timing_peak, hashtag_analysis",
+    "signals_count": 41,
+    "top_signals": [
+      {
+        "location": "Japan",
+        "confidence": 0.85,
+        "source": "hashtag_analysis",
+        "details": "6 hashtag(s)",
+        "latitude": null,
+        "longitude": null,
+        "raw_matches": [
+          "#jdm",
+          "#jdmlegends",
+          "#jdmdiecast",
+          "#jdmlife",
+          "#jdmdaily",
+          "#jdmnation"
+        ]
+      },
+      {
+        "location": "Australasia (Australia/New Zealand)",
+        "confidence": 0.75,
+        "source": "username_region",
+        "details": "@majoretteaustralasia contains 'australasia'",
+        "latitude": null,
+        "longitude": null,
+        "raw_matches": [
+          "australasia"
+        ]
+      },
+      {
+        "location": "Hawaii, USA",
+        "confidence": 0.2,
+        "source": "post_timing_peak",
+        "details": "UTC-10 → 17:00 local",
+        "latitude": null,
+        "longitude": null,
+        "raw_matches": [
+          "UTC-10"
+        ]
+      }
+    ],
+    "top_candidates": [
+      {
+        "location": "Japan",
+        "score": 1.296,
+        "signal_count": 2,
+        "max_confidence": 0.85,
+        "sources": [
+          "post_timing_peak",
+          "hashtag_analysis"
+        ],
+        "latitude": null,
+        "longitude": null
+      },
+      {
+        "location": "Australasia (Australia/New Zealand)",
+        "score": 0.675,
+        "signal_count": 1,
+        "max_confidence": 0.75,
+        "sources": [
+          "username_region"
+        ],
+        "latitude": null,
+        "longitude": null
+      },
+      {
+        "location": "Hawaii, USA",
+        "score": 0.06,
+        "signal_count": 1,
+        "max_confidence": 0.2,
+        "sources": [
+          "post_timing_peak"
+        ],
+        "latitude": null,
+        "longitude": null
+      }
+    ]
+  },
+  "comment_texts": [
+    {
+      "author": "fastandsporty_cars",
+      "text": "Nice!",
+      "position": 1
+    },
+    {
+      "author": "majoretteaustralasia",
+      "text": "#jdm #jdmdiecast #jdmlegends #jdmlife #jdmlifestyle #jdmnation #jdmdaily #isuzutruck #isuzutrucks #isuzu #isuzunpr #npr #nissansilvia #s15 #s15silvia #s15specr\n#マジョレット #カバヤ #マジョレットミニカー",
+      "position": 2
+    },
+    {
+      "author": "bashar362018",
+      "text": "I loved your collections fabulous lovely God bless you always ❤️❤️❤️❤️🔥🔥🔥",
+      "position": 3
+    },
+    {
+      "author": "zhh703",
+      "text": "Hold on, although 漂流means drift, but it actually means drift on the water. For car drifting, it is 漂移.",
+      "position": 4
+    }
+  ],
+  "scraped_at": "2026-02-10T14:41:52.092674"
+}
